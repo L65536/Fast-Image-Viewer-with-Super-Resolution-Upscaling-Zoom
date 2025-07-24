@@ -21,7 +21,7 @@ Ths project will run cross-platform under both Windows and Linux (under testing)
 - Implement other experimental Super Resolution AI models with simple pytorch calls.
 
 # Known issues
-- [Linux] Font spacing/placement and mouse cusor change not working as intended.
+- [Linux] System font spacing/placement and mouse cusor change not working as intended. => use user font/cursors.
 - [Linux] Folder/File dialog crashes, after resolution change?
 
 # Acknowledgement and Special Thanks
