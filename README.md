@@ -8,12 +8,12 @@ This project shares its Super Resolution backends with my other repos.
 Ths project will run cross-platform under both Windows and Linux (under testing).
 
 # Features
-- GPU accelerated AI SRCNN for high quality 2x or 4x zoom.
+- GPU accelerated AI SRCNN for high quality 2x or 4x cascaded zoom.
 - GPU accelerated Lanczos or Bicubic fit to screen image browsing.
 - Pygame(SDL) based cross-platform GUI, highly consistant and responsive.
 - Fast image viewing folder by folder.
-- All image decodings are prefetched and cached for speed.
-- Auto bookmark and resume for unlimited number of folders.
+- Image decodings are prefetched and cached for speed.
+- Auto bookmark and resume support.
 - PIXIV specific file grouping and batch moving/deleting functions.
 
 # Future plans
