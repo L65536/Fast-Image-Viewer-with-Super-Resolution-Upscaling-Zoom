@@ -1,4 +1,3 @@
-
 # Introduction
 This simple image viewer is specialized in AI Super Resolution Upscaling in real-time.
 Using current Super Resolution AI models for improved perceived upscaling quality. 
@@ -20,6 +19,10 @@ Ths project will run cross-platform under both Windows and Linux (under testing)
 # Future plans
 - Implement other HLSL/GLSL shaders cross-platform using the compushady library.
 - Implement other experimental Super Resolution AI models with simple pytorch calls.
+
+# Known issues
+- [Linux] Font spacing/placement and mouse cusor change not working as intended.
+- [Linux] Folder/File dialog crashes, after resolution change?
 
 # Acknowledgement and Special Thanks
 This project contains codes based on the following projects/libraries:
