@@ -19,6 +19,7 @@ Ths project will run cross-platform under both Windows and Linux (under testing)
 # Future plans
 - Implement other HLSL/GLSL shaders cross-platform using the compushady library.
 - Implement other experimental Super Resolution AI models with simple pytorch calls.
+- [Next revision][Shader] Improve x4 shaders speed by elimiting unnecessary intermediate buffer I/O.
 
 # Known issues
 - [Linux] System font spacing/placement and mouse cusor change not working as intended. => use user font/cursors.
